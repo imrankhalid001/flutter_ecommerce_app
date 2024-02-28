@@ -9,8 +9,8 @@ final List<product> _shop = [
   product(
     name: "product 1", 
     price: 99.99, 
-    description: "Product description Here will be more info like this to describe the product",
-    //  imagePath: imagePath
+    description: "Product description, Here will be more info like this to describe the product",
+     imagePath: 'assets/hoodie.jpg'
      ),
 
 
@@ -19,7 +19,7 @@ final List<product> _shop = [
     name: "product 2", 
     price: 99.99, 
     description: "Product description",
-    //  imagePath: imagePath
+          imagePath: 'assets/watch.jpg'
      ),
 
 
@@ -28,7 +28,7 @@ final List<product> _shop = [
     name: "product 3", 
     price: 99.99, 
     description: "Product description",
-    //  imagePath: imagePath
+       imagePath: 'assets/glaces.jpg'
      ),
 
        // product 4
@@ -36,7 +36,7 @@ final List<product> _shop = [
     name: "product 4", 
     price: 99.99, 
     description: "Product description",
-    //  imagePath: imagePath
+         imagePath: 'assets/hoodie.jpg'
      ),
 
 

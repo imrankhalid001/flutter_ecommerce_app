@@ -83,7 +83,7 @@ child: Text("Yes"),
               ),
               width: double.infinity,
               padding: EdgeInsets.all(25),
-              child: Icon(Icons.favorite)
+              child: Image.asset(Product.imagePath),
               ),
           ),
 
